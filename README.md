@@ -1,2 +1,2 @@
-# cogprog.com
+# cogprog-lab.github.io
 site repo
